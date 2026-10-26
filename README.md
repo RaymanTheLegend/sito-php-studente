@@ -1,6 +1,6 @@
 # Il mio sito PHP
 
-Esercitazioni PHP di Nome Cognome, classe 3A.
+Esercitazioni PHP di Samuele Iafrate, classe 5Einf.
 
 Questo repository contiene l'intero sito: pagine PHP, HTML, CSS e altre risorse.
 La prima attività è es01a-hello-world/index.php.
